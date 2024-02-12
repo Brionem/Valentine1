@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient(
+      rgba(219,2,23,.5), 
+      rgba(219,2,23,.5)
+    ),
+url('../images/heart-background.png');
+;
+
+    background-color: rgb(246, 194, 203);
+    color: maroon;
+    font-family: Source Serif Pro;
+    font-size: 20px; 
+    text-align: center;
+ 
+
+}
+
+section{
+    background-color: lightcoral;
+    margin: auto 10%;
+    padding: 30px; 
+    border-color: maroon;
+    border-style: dotted; 
+    border-width: 5px; 
+    border-radius: 10px; 
+
+
+}
+
+form{
+    background-color: firebrick;
+    color: beige;
+}
+h1{
+    font-size: 30px; 
+}
+em{
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 70px; 
+    color: red;
+
+}
+
+.css{
+    color: beige;
+}
+
+.html{
+    color: pink; 
+}
